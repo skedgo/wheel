@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default colors which can be overridden in projects that are dependent on this library. -->
+    <color name="wheel_item_divider">@android:color/black</color>
+    <color name="wheel_item_text">@android:color/black</color>
+</resources>
